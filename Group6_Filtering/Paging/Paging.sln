@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paging", "Paging\Paging.csproj", "{1A435F75-1D0F-4F40-9274-AE741E6BB1AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A435F75-1D0F-4F40-9274-AE741E6BB1AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A435F75-1D0F-4F40-9274-AE741E6BB1AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A435F75-1D0F-4F40-9274-AE741E6BB1AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A435F75-1D0F-4F40-9274-AE741E6BB1AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FFF14557-A0F3-41FF-B7CA-07A4D33EFD49}
+	EndGlobalSection
+EndGlobal
